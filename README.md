@@ -14,7 +14,7 @@
 
 [<img align="left" alt="sonulohani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="sonu-lohani-ab471143 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sonulohani | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/reddit.svg" />][linkedin]
+[<img align="left" alt="sonulohani | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/reddit.svg" />][reddit]
 
 <br/>
 
@@ -42,4 +42,6 @@
 [github]: https://github.com/sonulohani
 [bash]: https://www.gnu.org/software/bash/
 [terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal
-
+[twitter]: https://twitter.com/sonulohani
+[linkedin]: https://www.linkedin.com/in/sonu-lohani-ab471143/
+[reddit]: https://www.reddit.com/user/sonulohani
