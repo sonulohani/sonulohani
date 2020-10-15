@@ -29,7 +29,7 @@
 [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][bash]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
-<br/>
+<br/><br/>
 
 [![Sonu's github stats](https://github-readme-stats.vercel.app/api?username=sonulohani&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/sonulohani/github-readme-stats)
 
