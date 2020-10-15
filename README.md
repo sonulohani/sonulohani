@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Sonu Lohani, C++ developer from <img src="https://www.flaticon.com/premium-icon/icons/svg/2412/2412420.svg" width="13"/> <b>Uttarakhand, India</b>, currently living in <img src="https://www.flaticon.com/premium-icon/icons/svg/2412/2412420.svg" width="13"/><b>Bangalore, India<b></p>
+<p>Welcome to my page! </br> I'm Sonu Lohani, C++ developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Uttarakhand, India</b>, currently working in <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Bangalore, India<b></p>
 
 * :office: I am currently working at [KPIT Technologies](https://www.kpit.com/), Banaglore
 * :telescope: I am currently learning C++ 20.  
