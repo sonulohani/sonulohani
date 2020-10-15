@@ -8,8 +8,8 @@
 * :speech_balloon: Ask me about anything related to C/C++/Python/Qt
 * :smile: Pronouns: he/him
 * :zap: Fun fact: I love thrash metal
-
 <br/>
+
 ### Connect with me:
 
 [<img align="left" alt="sonulohani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
