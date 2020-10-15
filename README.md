@@ -33,7 +33,7 @@
 
 <br/><br/>
 
-[![Sonu's github stats](https://github-readme-stats.vercel.app/api?username=sonulohani&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/sonulohani/github-readme-stats)
+[![Sonu's github stats](https://github-readme-stats.vercel.app/api?username=sonulohani&count_private=true&show_icons=true&theme=gruvbox)](https://github-readme-stats.vercel.app/api?username=sonulohani&count_private=true&show_icons=true&theme=gruvbox)
 
 [vscode]: https://code.visualstudio.com/
 [c-lang]: https://en.wikipedia.org/wiki/C_(programming_language)
