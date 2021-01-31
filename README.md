@@ -4,7 +4,7 @@
 
 * :office: I am currently working at [KPIT Technologies](https://www.kpit.com/), Banaglore
 * :telescope: I am currently learning C++ 20.  
-* :goal_net: 2020 Goals: Contribute more to Open Source projects
+* :goal_net: 2021 Goals: Contribute more to Open Source projects
 * :speech_balloon: Ask me about anything related to C/C++/Python/Qt
 * :smile: Pronouns: he/him
 * :zap: Fun fact: I love thrash metal
