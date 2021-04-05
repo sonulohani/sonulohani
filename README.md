@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, नमस्ते (Namaste)<img src="https://media1.tenor.com/images/9c0252f664ac314da727cbb50daab8f1/tenor.gif?itemid=16705107" width=40, height=40/></h1>
 
-<p>Welcome to my page! </br> I'm Sonu Lohani, C++ developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Uttarakhand, India</b>, currently working in <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Bangalore, India</b>. It's nice to see you here.</p>
+<p>Welcome to my page! </br> I'm Sonu Lohani, C++ developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Uttarakhand, India</b>, currently working in <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Gurugram, India</b>. It's nice to see you here.</p>
 
 * :office: I am currently working at [Stryker](https://www.stryker.com/us/en/index.html), Gurugram
 * :telescope: I am currently learning Rust & C++ 20.  
