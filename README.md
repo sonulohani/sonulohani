@@ -4,7 +4,7 @@
 
 * :office: I am currently working at [Stryker](https://www.stryker.com/us/en/index.html), Gurugram
 * :telescope: I am currently learning Rust & C++ 20.  
-* :goal_net: 2021 Goals: Contribute more to Open Source projects
+* :goal_net: 2024 Goals: Contribute more to Open Source projects
 * :speech_balloon: Ask me about anything related to C/C++/Python/Qt
 * :smile: Pronouns: he/him
 * :zap: Fun fact: I love thrash metal
