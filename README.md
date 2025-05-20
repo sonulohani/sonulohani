@@ -3,8 +3,8 @@
 <p>Welcome to my page! </br> I'm Sonu Lohani, C++ developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Uttarakhand, India</b>, currently working in <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Gurugram, India</b>. It's nice to see you here.</p>
 
 * :office: I am currently working at [Stryker](https://www.stryker.com/us/en/index.html), Gurugram
-* :telescope: I am currently learning Rust & C++ 20.  
-* :goal_net: 2024 Goals: Contribute more to Open Source projects
+* :telescope: I am currently learning Vulkan.  
+* :goal_net: 2025 Goals: Contribute more to Visualization based projects
 * :speech_balloon: Ask me about anything related to C/C++/Python/Qt
 * :smile: Pronouns: he/him
 * :zap: Fun fact: I love thrash metal
